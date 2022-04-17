@@ -48,7 +48,5 @@
 </a>
 </div>
 <div>
-  <a href="https://leetcode-stats-six.vercel.app/api?username=SterxovK=dark">
-     <img align="left" heigth="130" src="https://github.com/SterxovK/leetcode-stats" />
-  </a>
+ [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SterxovK)](https://github.com/SterxovK/github-readme)
   </div>
