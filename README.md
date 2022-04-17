@@ -20,7 +20,6 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="60px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60px"></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="60px"></span>&nbsp;
 
@@ -46,6 +45,7 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SterxovK=compact&theme=dark">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SterxovK&layout=compact&theme=dark" />
 </a>
+  <a href="https://leetcode-stats-six.vercel.app/api?username=SterxovK"> </a>
 </div>
- [![SterxovK LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SterxovK)](https://github.com/SterxovK/github-readme)
+ 
   
