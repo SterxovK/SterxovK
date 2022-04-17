@@ -45,7 +45,9 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SterxovK=compact&theme=dark">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SterxovK&layout=compact&theme=dark" />
 </a>
-  ![Leetcode Stats](https://leetcode.card.workers.dev/?username=SterxovK&theme=dark)
+  <a href="https://leetcode.com/SterxovK">
+    <img align="left" height="130" src"https://leetcode.card.workers.dev/?username=SterxovK&theme=dark" />
+  </a>
 </div>
 
  
