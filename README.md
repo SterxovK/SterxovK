@@ -1,17 +1,19 @@
 <img src="https://komarev.com/ghpvc/?username=SterxovK&style=flat-square&color=blue" alt=""/>
 
 <h2 align="center">Привет!👋 Я, Стерхов Константин.</h1>
-<a href="https://www.linkedin.com/in/sterxovk/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
-
-<a href="https://t.me/SterxovK">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" />
-</a>
 
 -----
 
 <p align="center">Начинающий frontend-разработчик. </p>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/sterxovk/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://t.me/SterxovK">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" />
+</a>
+</div>
 
 -----
 ### **ОБО МНЕ:**
