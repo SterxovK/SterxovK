@@ -41,7 +41,6 @@
 
 ### **МОИ КОНТАКТЫ:** 
 
-- Telegram: @SterxovK
 - Почта: SterxovK@mail.ru
 
 -----
