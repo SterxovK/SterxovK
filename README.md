@@ -6,7 +6,7 @@
 
 -----
 ### **ОБО МНЕ:**
-- ❤️ Полюбил Front-end разработку за возможность создавать  функциональные, отзывчивые и красивые интерфейсы. 
+- ❤️ Front-end разработку за возможность создавать  функциональные, отзывчивые и красивые интерфейсы. 
 - 😎 Люблю учиться, стремлюсь стать профессионалом и писать качественный код.
 - 💪 Умею работать в команде, активно ищу работу и проекты.
 
@@ -47,6 +47,5 @@
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SterxovK&layout=compact&theme=dark" />
 </a>
 </div>
-<div>
- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SterxovK)](https://github.com/SterxovK/github-readme)
-  </div>
+ [![SterxovK LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SterxovK)](https://github.com/SterxovK/github-readme)
+  
