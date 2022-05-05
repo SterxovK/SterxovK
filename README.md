@@ -47,14 +47,13 @@
 
 ### **МОЯ СТАТИСТИКА:**
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=SterxovK=contribs&show_icons=true&theme=dark">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=SterxovK&hide=contribs&show_icons=true&theme=dark" />
-</a>
+
+![Codewars](https://github.r2v.ch/codewars?user=Konstantin%20Sterkhov)
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SterxovK=compact&theme=dark">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SterxovK&layout=compact&theme=dark" />
 </a>
-</div>
+
 
  
   
